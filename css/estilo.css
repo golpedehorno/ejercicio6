@@ -1,0 +1,36 @@
+body{
+    
+    font-family: Calibri;
+    padding: 10px 20px;
+}
+
+h1 {
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	border-radius:0 20px;
+}
+
+#boton{
+	color: #FFFFFF;
+	background-color: #ffbd33;
+	padding: 10px;
+	text-transform: uppercase;
+	list-style: none;
+	border: none;
+	margin: 20px;
+	font-size: 20px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px black;
+}
+
+.contenedor{
+	width: 500px;
+	height: 500 px;
+	border: 5px solid #ffbd33;
+	margin: 50px auto;
+	text-align: center;
+	padding: 50px;
+	font-size: 20px;
+}
+
